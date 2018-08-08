@@ -1,0 +1,30 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {
+        "name": "Example",
+        "strict": false,
+        "directed": true
+    },
+    "nodes": [
+        {
+            "id": 2
+        },
+        {
+            "id": 3
+        },
+        {
+            "id": 1
+        }
+    ],
+    "links": [
+        {
+            "source": 1,
+            "target": 3
+        },
+        {
+            "source": 2,
+            "target": 6
+        }
+    ]
+}
